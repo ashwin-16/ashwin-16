@@ -1,6 +1,5 @@
 -  Hi, I’m ashwin-16
 -  I’m interested in coding ,designing and developing
--
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
